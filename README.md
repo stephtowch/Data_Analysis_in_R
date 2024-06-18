@@ -1,6 +1,4 @@
-  <img src="https://media.giphy.com/media/2wh2kWDMWom5rQUhbf/giphy.gif" width="100"/>
-
-  # Data_Analysis_in_R
+# Data_Analysis_in_R   <img src="https://media.giphy.com/media/2wh2kWDMWom5rQUhbf/giphy.gif" width="100"/>
 
 This GitHub repository contains R code for conducting a data analysis, specifically tailored for psychologists.
 It will detail how to import, tidy, visualise, transform, and model a dataset using R through a worked example <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
