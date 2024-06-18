@@ -1,3 +1,5 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/2wh2kWDMWom5rQUhbf/giphy.gif" width="100"/>
 # Data_Analysis_in_R
 
 This GitHub repository contains R code for conducting a data analysis, specifically tailored for psychologists.
