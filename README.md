@@ -12,6 +12,7 @@ Key steps include:
 - Utilising Cronbach's Alpha to assess internal consistency reliability
 - Constructing a correlation data matrix to examine relationships between variables
 - Modelling data using techniques such as simple linear regression, multiple linear regression, and hierarchical linear regression
+
 These steps are essential for understanding and interpreting data, ensuring robust analysis and informed decision-making. Let's delve into each stage to uncover valuable insights from our dataset.
 
 
