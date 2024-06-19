@@ -8,7 +8,7 @@ This GitHub repository contains R code for conducting a data analysis, specifica
 
 It will detail how to import, tidy, visualise, transform, and model a dataset using R through a worked example <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-Key steps include:
+**Key steps include:**
 - Importing and tidying data
 - Imputing missing data where applicable
 - Visualising data through histograms, bar charts, scatterplots, boxplots, and Q-Q plots
