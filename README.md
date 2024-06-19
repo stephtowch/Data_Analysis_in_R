@@ -1,6 +1,7 @@
 # Data_Analysis_in_R  
 
 This GitHub repository contains R code for conducting a data analysis, specifically tailored for psychologists.
+
 It will detail how to import, tidy, visualise, transform, and model a dataset using R through a worked example <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 Key steps include:
