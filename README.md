@@ -24,7 +24,7 @@ These steps are essential for understanding and interpreting data, ensuring robu
 
 The repository is organised into the following sections:
 
-- **[Slides](/Slides/Slides.ppt)**: Accompanying slides with some hints and tips on conducting data analysis in R.
+- **[Slides](/Slides/Slides.pptx)**: Accompanying slides with some hints and tips on conducting data analysis in R.
 - **[R Script](/RScript/Data_Analysis_in_R.R)**: The R script for importing, tidying, visualising, transforming, and modelling a dataset using `tidyverse`, `psych`, `apaTables`, `ggally`, `gt`, and `gtsummary` packages.
 - **[Data](/Data/data.csv)**: The dataset used in this worked example contains an anonyomised data set collected in 2023 with demographic, work addiction, job satisfaction, psychological capital and burnout variables.
 <img src='logo/Hex.png' align="right" height="139" />
