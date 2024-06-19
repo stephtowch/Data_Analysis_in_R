@@ -1,4 +1,5 @@
-# Data_Analysis_in_R  <img src="https://media.giphy.com/media/1oGT95WukVFcRO1OFZ/giphy.gif" width="50">
+# Data_Analysis_in_R  <img src="[https://media.giphy.com/media/1oGT95WukVFcRO1OFZ/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNtYms4MGo0YTUwYmlqNno5c3Q1ejN3MGtvanc0MjBweTdkcGY3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fDCH4QFi73SEQqapBp/giphy.gif)" width="50">
+
 
 [![](https://img.shields.io/badge/Language-R-blue)](http://cran.r-project.org/)
 
