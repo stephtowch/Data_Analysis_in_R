@@ -31,7 +31,7 @@ The repository is organised into the following sections:
 
 ## :scroll: Notes
 
-This repository assumes basic competence in R (installing and loading packages,etc) and is therefore not a complete beginners guide. It contains only materials relating to *Data Analysis in R*. So the focus will be generally on the application and not on the theory.  
+This repository assumes basic competence in R (installing and loading packages, etc) and is therefore not a complete beginners guide. It contains only materials relating to *Data Analysis in R*. So the focus will be generally on the application and not on the theory.  
 
 ## :hammer_and_wrench: Setup
 
