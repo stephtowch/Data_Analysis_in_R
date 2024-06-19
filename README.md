@@ -1,7 +1,4 @@
-# Data_Analysis_in_R  <img src= "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWhuZW81M2JxOWY4b3M0NHdrNnNhbnpkcjI0amZjMzc0Y3libWN0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8Lb8TPY7l2T9Mc1QIW/giphy.gif" width="50">
-
-
-"https://media.giphy.com/media/1oGT95WukVFcRO1OFZ/giphy.gif"
+# Data_Analysis_in_R  <img src= "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWhuZW81M2JxOWY4b3M0NHdrNnNhbnpkcjI0amZjMzc0Y3libWN0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8Lb8TPY7l2T9Mc1QIW/giphy.gif" width="100">
 
 [![](https://img.shields.io/badge/Language-R-blue)](http://cran.r-project.org/)
 
